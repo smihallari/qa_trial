@@ -1,0 +1,67 @@
+[
+  {
+    "id": "call_001",
+    "agent": "Sarah Jenkins",
+    "customer": "David Miller",
+    "date": "2026-10-20",
+    "duration": "01:18",
+    "summary": {
+      "overview": "Customer called regarding an overdue balance of £450. Customer agreed to pay £225 today and £225 on November 15th.",
+      "action_items": [
+        "Process £225 card payment immediately",
+        "Set payment plan reminder for November 15th"
+      ],
+      "customer_sentiment": "Cooperative"
+    },
+    "transcript": [
+      {"time": "00:12", "speaker": "Agent", "text": "Hi David, calling about the £450 arrears on your account."},
+      {"time": "00:25", "speaker": "Customer", "text": "Yeah, I lost my shifts last week. I can't do the full £450."},
+      {"time": "00:40", "speaker": "Agent", "text": "Could you manage half today—£225—and £225 on November 15th?"},
+      {"time": "00:52", "speaker": "Customer", "text": "No, I don't get paid until November 1st. I can pay £150 on November 1st, and we can review the rest on November 15th. Nothing today."},
+      {"time": "01:05", "speaker": "Agent", "text": "Okay, I'll note £150 for November 1st and a follow-up call on the 15th."}
+    ]
+  },
+  {
+    "id": "call_002",
+    "agent": "Marcus Vance",
+    "customer": "Elena Rostova",
+    "date": "2026-10-21",
+    "duration": "01:42",
+    "summary": {
+      "overview": "Agent contacted customer about missed October vehicle finance payment of £310. Customer refused to pay and stated she will call back on Friday October 24th with a debit card.",
+      "action_items": [
+        "Await customer callback on October 24th",
+        "Keep standard collections chasing active"
+      ],
+      "customer_sentiment": "Hostile / Refusal to Pay"
+    },
+    "transcript": [
+      {"time": "00:08", "speaker": "Agent", "text": "Hello Elena, I'm calling from Advantage Finance regarding the missed £310 payment from October 10th."},
+      {"time": "00:21", "speaker": "Customer", "text": "Look, I'm actually in the hospital right now recovering from surgery. I haven't been able to work or check my mail."},
+      {"time": "00:38", "speaker": "Agent", "text": "I'm sorry to hear that. Do you know when you'll be discharged?"},
+      {"time": "00:49", "speaker": "Customer", "text": "Not until next week. Can you freeze the account for 30 days so I don't get late fees while I'm admitted?"},
+      {"time": "01:04", "speaker": "Agent", "text": "Yes, I will apply a 30-day medical breathing space hold on your account today and send a confirmation email. No payments will be requested until November 20th."}
+    ]
+  },
+  {
+    "id": "call_003",
+    "agent": "Sarah Jenkins",
+    "customer": "Tom Bradley",
+    "date": "2026-10-22",
+    "duration": "01:10",
+    "summary": {
+      "overview": "Customer called to clear £180 arrears balance in full using a Visa debit card ending in 4491 and requested moving future direct debit dates from the 1st to the 28th of each month.",
+      "action_items": [
+        "Confirm £180 payment receipt sent via SMS",
+        "Update monthly Direct Debit date to the 28th"
+      ],
+      "customer_sentiment": "Positive"
+    },
+    "transcript": [
+      {"time": "00:05", "speaker": "Customer", "text": "Hi, I missed my £180 payment on the 1st because my employer changed our payday to the 27th."},
+      {"time": "00:18", "speaker": "Agent", "text": "No problem Tom, we can clear the £180 today and move your future Direct Debit to the 28th so it lines up with your new payday."},
+      {"time": "00:32", "speaker": "Customer", "text": "Yes please. Put the £180 on my Visa ending 4491 on file, and move the monthly date to the 28th."},
+      {"time": "00:50", "speaker": "Agent", "text": "Done. The £180 has gone through, I've sent an SMS receipt, and your next Direct Debit will run on the 28th of November."}
+    ]
+  }
+]

@@ -525,7 +525,7 @@ export default function App() {
                     : 'bg-white text-slate-700 border-slate-300 hover:bg-emerald-50 hover:border-emerald-300'
                 }`}
               >
-                ✓ Approve
+                ✓ Approve man appr
               </button>
 
               <button
